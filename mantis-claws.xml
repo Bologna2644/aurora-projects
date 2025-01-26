@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Mantis Claws</name>
+        <update version="0.0.0">
+            <file name="mantis-claws.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/Bologna2644/weapons/mantis-claws.xml" />
+        </update>
+    </info>
+    <element name="Mantis Claws" type="Weapon" source="Bologna2644 Homebrew" id="ID_BHB_WEAPON_MANTIS_CLAWS">
+        <supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_PIERCING, ID_INTERNAL_WEAPON_PROPERTY_FINESSE,</supports>
+        <description>
+        <p>A pair of metal claws that are attached at the forearm, and extend outwards with sharp ends. Mantis Claws remained a popular addition to many rogue's arsenals for their dexterious and stylish design. </p>
+        <p><b> Piercing Strike.</b></p>
+        <p>The Mantis Claws extend out an additional 5ft as to reach an opponent,dealing an extra 1d8 piercing damage and, on a critical hit, will deal the bleeding effect. Will hit with disadvantage if the target is within 5ft of the user.</p>
+        </description>
+    <setters>
+        <set name="category">Weapons</set>
+        <set name="cost" currency="gp">25</set>
+        <set name="weight" lb="1">6 lb.</set>
+        <set name="slot">twohand</set>
+        <set name="damage" type="piercing">1d8</set>
+        <set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_MANTIS_CLAWS</set>
+    </setters>
+    
+    </element>
+
+
+</elements>
