@@ -1,1 +1,12 @@
-nothing yet
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Bologna2644</name>
+		<update version="1.0.1">
+			<file name="Bologna2644.index" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644.index" />
+		</update>
+	</info>
+	<files>
+		<file name="mantis-claws.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/weapons/mantis-claws.xml" />
+	</files>
+</index>
