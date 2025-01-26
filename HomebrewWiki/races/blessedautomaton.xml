@@ -2,7 +2,7 @@
 <elements>
 <info>
     <name>Blessed Automaton</name>
-    <update version="0.0.3">
+    <update version="0.0.4">
         <file name="blessedautomaton.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/races/blessedautomaton.xml" />
     </update> 
 </info>
