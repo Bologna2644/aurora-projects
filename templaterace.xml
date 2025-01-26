@@ -2,8 +2,8 @@
 <elements>
 	<info>
     		<name>Template Race</name>
-		<update version="0.0.4">
-       			<file name="templaterace.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/races/templaterace.xml" />
+		<update version="0.0.5">
+       			<file name="templaterace.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/templaterace.xml" />
    		</update> 
 	</info>
     <element name="Template Race" type="Race" source="SOURCE" id="ID_AUTHOR_SOURCE_RACE_TEMPLATERACE">
