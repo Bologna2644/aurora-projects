@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+	<info>
+    		<name>Template Race</name>
+		<update version="0.0.1">
+       			<file name="templaterace.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/races/templaterace.xml" />
+   		</update> 
+	</info>
     <element name="Template Race" type="Race" source="SOURCE" id="ID_AUTHOR_SOURCE_RACE_TEMPLATERACE">
         <description>
             <p></p>
