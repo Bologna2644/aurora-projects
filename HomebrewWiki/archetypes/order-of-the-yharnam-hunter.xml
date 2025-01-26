@@ -2,8 +2,8 @@
 <elements>
     <info>
         <name></name>
-        <update version="0.0.1">
-            <file name="order-of-the-yharnam-hunter.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/HomebrewWiki/order-of-the-yharnam-hunter.xml" />
+        <update version="0.0.2">
+            <file name="order-of-the-yharnam-hunter.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/HomebrewWiki/archetypes/order-of-the-yharnam-hunter.xml" />
         </update>
     </info>
         <element name="Order of the Yharnam Hunter" type="Archetype" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_ORDER_OF_THE_YHARNAM_HUNTER">
