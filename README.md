@@ -1,6 +1,6 @@
 # Aurora Projects
 additional content to extend [Aurora](https://aurorabuilder.com/), by Bologna2644
-index url: https://raw.githubusercontent.com/bologna2644/aurora-projects/master/user-bologna2644.index
+index url: https://raw.githubusercontent.com/Bologna2644/aurora-projects/master/user-Bologna2644.index
 
 ---
 
