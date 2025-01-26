@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name></name>
+        <update version="0.0.1">
+            <file name="order-of-the-yharnam-hunter.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/HomebrewWiki/order-of-the-yharnam-hunter.xml" />
+        </update>
+    </info>
+        <element name="Order of the Yharnam Hunter" type="Archetype" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_ORDER_OF_THE_YHARNAM_HUNTER">
+            <supports>Blood Hunter Order</supports>
+            <description>
+                <p>Those who live in Yharnam know of the hunters that walk the streets at night, fighting beasts that plague the city. There are those who work for the Healing Church, those who still dream, and those who stalk the nights alone. They are people infused with the blood of the Outer gods, making them stronger than ever before. Wielding a wide variety of weapons, they are masters in adapting in the heat of the fight. Most hunters use Trick Weapons, made in the city of Yharnam,to gain the edge in battle with there transforming weapons.</p>
+                <p><b>Trick Weapon</b></p>
+                <p>Starting at 3rd level, you can merge two melee weapons together into a unique single weapon called "Trick Weapon", during a short rest. Once merged, the weapons can't be separated.</p>
+                <p>As a bonus action, you can swap between the two forms of that weapon. In addition, when you take the Attack action, you can make a "Transformation Attack", swapping the weapon form and attacking with the new form using the same bonus action.</p>
+                <p>If the new form of the weapon requires two hands, you must have one hand free to use the new form or to make a transformation attack. If the weapon is magical, it can only use its magical properties when it is on that magical weapon's form.</p>
+                <p><b>Quicksilver Projectile</b></p>
+                <p>Starting at 3rd level, you gain the ability to fabricate a special type of ammunition, infused with your own blood, called Quicksilver Projectile.</p>
+                <p>These projectiles ignore resistance and immunity to piercing damage, and on a hit, you force your target to make a Constitution saving throw against your hemocraft save DC. On a failed save, your target is stunned until the end of your next turn.</p>
+                <p>You can craft a number of projectiles equal to your proficiency bonus, and regain the ability to do so after finishing a short or a long rest. If you have no uses of this feature, you can roll your hemocraft die to create a blood projectile. The blood projectile has the same properties of the quicksilver projectile.</p>
+                <p><b>Gun Parry</b></p>
+                <p>Starting at 7th level, when you are targeted by a creature with a melee weapon attack, you can use a reaction to make an attack with a quicksilver projectile against the attacker. On a hit, that creature misses and is stunned for the remainder of the turn.</p>
+                <p>If you are wielding a melee weapon, you can instantly make a melee weapon attack against it, as part of the same reaction.</p>
+                <p><b>Brand of Rallying</b></p>
+                <p>Starting at 11th level, when you brand a creature with your Brand of Castigation, you can ignore the wounds provoked by it, being reinvigorated with each retort. Record the last damage caused to you by the branded creature on this turn. Until the end of your next turn, if you hit that creature with a melee weapon attack, you regain hit points equal to a roll of your hemocraft die, up to a maximum equal to the damage caused.</p>
+                <p><b>Insight</b></p>
+                <p>Starting at 15th level, your awareness is finally opened to the truth. You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>
+                <p>In addition, you gain proficiency in Wisdom saving throws and on any Wisdom checks you aren't already proficient, and you learn how to speak, read and write in deepspeech.</p>
+                <p><b>Blood Curse of the Visceral</b></p>
+                <p>At 18th level, you develop the ability to weaken the body of your prey, making it vulnerable to your attacks. You gain the Blood Curse of the Visceral for your Blood Maledict feature. This doesn’t count against your number of blood curses known:</p>
+                <p>As a bonus action, you cause a creature within 30 feet of you to become vulnerable to melee attacks made by you. The cursed creature can make a Constitution saving throw at the end of each of its turns, ending the curse on itself on a success.</p>
+                <p class="indent"><b><i>Amplify.</i></b> Melee weapon attacks made by you against the creature cause additional 2d6 damage, from your weapon's type.</p>
+            </description>
+            <rules>
+                <grant type="Archetype Feature" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_TRICK_WEAPON" level="3"/>
+                <grant type="Archetype Feature" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_QUICKSILVER_PROJECTILE" level="3"/>
+                <grant type="Archetype Feature" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_GUN_PARRY" level="7"/>
+                <grant type="Archetype Feature" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_BRAND_OF_RALLYING" level="11"/>
+                <grant type="Archetype Feature" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_INSIGHT" level="15"/>
+                <grant type="Archetype Feature" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_BLOOD_CURSE_OF_THE_VISCERAL" level="18"/>
+            </rules>   
+        </element>
+
+        <element name="Trick Weapon" type="Archetype Feature" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_TRICK_WEAPON">
+            <description>
+                <p>Starting at 3rd level, you can merge two melee weapons together into a unique single weapon called "Trick Weapon", during a short rest. Once merged, the weapons can't be separated.</p>
+                <p>As a bonus action, you can swap between the two forms of that weapon. In addition, when you take the Attack action, you can make a "Transformation Attack", swapping the weapon form and attacking with the new form using the same bonus action.</p>
+                <p>If the new form of the weapon requires two hands, you must have one hand free to use the new form or to make a transformation attack. If the weapon is magical, it can only use its magical properties when it is on that magical weapon's form.</p>
+            </description>
+            <sheet>
+                <description>
+                    <p>Starting at 3rd level, you can merge two melee weapons together into a unique single weapon called "Trick Weapon", during a short rest. Once merged, the weapons can't be separated.</p>
+                    <p>As a bonus action, you can swap between the two forms of that weapon. In addition, when you take the Attack action, you can make a "Transformation Attack", swapping the weapon form and attacking with the new form using the same bonus action.</p>
+                    <p>If the new form of the weapon requires two hands, you must have one hand free to use the new form or to make a transformation attack. If the weapon is magical, it can only use its magical properties when it is on that magical weapon's form.</p>
+                </description>
+            </sheet>
+
+        </element>
+
+        <element name="Quicksilver Projectile" type="Archetype Feature" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_QUICKSILVER_PROJECTILE">
+            <description>
+                <p>Starting at 3rd level, you gain the ability to fabricate a special type of ammunition, infused with your own blood, called Quicksilver Projectile.</p>
+                <p>These projectiles ignore resistance and immunity to piercing damage, and on a hit, you force your target to make a Constitution saving throw against your hemocraft save DC. On a failed save, your target is stunned until the end of your next turn.</p>
+                <p>You can craft a number of projectiles equal to your proficiency bonus, and regain the ability to do so after finishing a short or a long rest. If you have no uses of this feature, you can roll your hemocraft die to create a blood projectile. The blood projectile has the same properties of the quicksilver projectile.</p>
+            </description>
+            <sheet>
+                <description>
+                    <p>Starting at 3rd level, you gain the ability to fabricate a special type of ammunition, infused with your own blood, called Quicksilver Projectile.</p>
+                    <p>These projectiles ignore resistance and immunity to piercing damage, and on a hit, you force your target to make a Constitution saving throw against your hemocraft save DC. On a failed save, your target is stunned until the end of your next turn.</p>
+                    <p>You can craft a number of projectiles equal to your proficiency bonus, and regain the ability to do so after finishing a short or a long rest. If you have no uses of this feature, you can roll your hemocraft die to create a blood projectile. The blood projectile has the same properties of the quicksilver projectile.</p>
+                </description>
+            </sheet>
+        </element>
+
+        <element name="Gun Parry" type="Archetype Feature" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_GUN_PARRY">
+            <description>
+                <p>Starting at 7th level, when you are targeted by a creature with a melee weapon attack, you can use a reaction to make an attack with a quicksilver projectile against the attacker. On a hit, that creature misses and is stunned for the remainder of the turn.</p>
+                <p>If you are wielding a melee weapon, you can instantly make a melee weapon attack against it, as part of the same reaction.</p>
+            </description>
+            <sheet>
+                <description>
+                    <p>Starting at 7th level, when you are targeted by a creature with a melee weapon attack, you can use a reaction to make an attack with a quicksilver projectile against the attacker. On a hit, that creature misses and is stunned for the remainder of the turn.</p>
+                    <p>If you are wielding a melee weapon, you can instantly make a melee weapon attack against it, as part of the same reaction.</p>
+                </description>
+            </sheet>
+        </element>
+
+        <element name="Brand of Rallying" type="Archetype Feature" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_BRAND_OF_RALLYING">
+            <description>
+                <p>Starting at 11th level, when you brand a creature with your Brand of Castigation, you can ignore the wounds provoked by it, being reinvigorated with each retort. Record the last damage caused to you by the branded creature on this turn. Until the end of your next turn, if you hit that creature with a melee weapon attack, you regain hit points equal to a roll of your hemocraft die, up to a maximum equal to the damage caused.</p>
+            </description>
+            <sheet>
+                <description>
+                    <p>Starting at 11th level, when you brand a creature with your Brand of Castigation, you can ignore the wounds provoked by it, being reinvigorated with each retort. Record the last damage caused to you by the branded creature on this turn. Until the end of your next turn, if you hit that creature with a melee weapon attack, you regain hit points equal to a roll of your hemocraft die, up to a maximum equal to the damage caused.</p>
+                </description>
+            </sheet>
+        </element>
+        
+        <element name="Insight" type="Archetype Feature" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_INSIGHT">
+            <description>
+                <p>Starting at 15th level, your awareness is finally opened to the truth. You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>
+                <p>In addition, you gain proficiency in Wisdom saving throws and on any Wisdom checks you aren't already proficient, and you learn how to speak, read and write in deepspeech.</p>
+            </description>
+            <sheet>
+                <description>
+                    <p>Starting at 15th level, your awareness is finally opened to the truth. You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>
+                    <p>In addition, you gain proficiency in Wisdom saving throws and on any Wisdom checks you aren't already proficient, and you learn how to speak, read and write in deepspeech.</p>
+                </description>
+            </sheet>
+            <rules>
+                <grant type="Language" id="ID_LANGUAGE_DEEP_SPEECH" />
+                <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_WISDOM"/>
+            </rules>
+        </element>
+
+        <element name="Blood Curse of the Visceral" type="Archetype Feature" source="Homebrew Wiki" id="ID_HBW_ARCHETYPE_FEATURE_ORDER_OF_THE_YHARNAM_HUNTER_BLOOD_CURSE_OF_THE_VISCERAL">
+            <description>
+                <p>At 18th level, you develop the ability to weaken the body of your prey, making it vulnerable to your attacks. You gain the Blood Curse of the Visceral for your Blood Maledict feature. This doesn’t count against your number of blood curses known:</p>
+                <p>As a bonus action, you cause a creature within 30 feet of you to become vulnerable to melee attacks made by you. The cursed creature can make a Constitution saving throw at the end of each of its turns, ending the curse on itself on a success.</p>
+                <p class="indent"><b><i>Amplify.</i></b> Melee weapon attacks made by you against the creature cause additional 2d6 damage, from your weapon's type.</p>
+            </description>
+            <sheet>
+                <description>
+                    <p>At 18th level, you develop the ability to weaken the body of your prey, making it vulnerable to your attacks. You gain the Blood Curse of the Visceral for your Blood Maledict feature. This doesn’t count against your number of blood curses known:</p>
+                    <p>As a bonus action, you cause a creature within 30 feet of you to become vulnerable to melee attacks made by you. The cursed creature can make a Constitution saving throw at the end of each of its turns, ending the curse on itself on a success.</p>
+                    <p class="indent"><b><i>Amplify.</i></b> Melee weapon attacks made by you against the creature cause additional 2d6 damage, from your weapon's type.</p>
+                </description>
+            </sheet>
+        </element>
+    
+</elements>
