@@ -2,7 +2,7 @@
 <elements>
 	<info>
     		<name>Template Race</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
        			<file name="templaterace.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/races/templaterace.xml" />
    		</update> 
 	</info>
