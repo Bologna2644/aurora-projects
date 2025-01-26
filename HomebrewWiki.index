@@ -2,12 +2,13 @@
 <index>
 	<info>
 		<name>races</name>
-		<update version="1.0.4">
+		<update version="1.0.5">
 			<file name="races.index" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki.index" />
 		</update>
 	</info>
 	<files>
 		<file name="blessedautomaton.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/blessedautomaton.xml" />
 		<file name="templaterace.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/templaterace.xml" />
+		<file name="order-of-the-yharnam-hunter.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/order-of-the-yharnam-hunter.xml" />
 	</files>
 </index>
