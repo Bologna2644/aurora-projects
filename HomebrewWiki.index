@@ -2,8 +2,8 @@
 <index>
 	<info>
 		<name>Homebrew Wiki</name>
-		<update version="1.0.7">
-			<file name="races.index" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki.index" />
+		<update version="1.0.8">
+			<file name="HomebrewWiki.index" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki.index" />
 		</update>
 	</info>
 	<files>
