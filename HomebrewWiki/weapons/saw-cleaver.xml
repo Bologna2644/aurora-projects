@@ -2,8 +2,8 @@
 <elements>
     <info>
         <name>Saw Cleaver</name>
-        <update version="0.0.1">
-            <file name="saw-cleaver.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/saw-cleaver.xml" />
+        <update version="0.0.2">
+            <file name="saw-cleaver.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/weapons/saw-cleaver.xml" />
         </update> 
     </info>
     <element name="Saw Cleaver" type="Weapon" source="Homebrew Wiki" id="ID_HBW_WEAPON_SAW_CLEAVER">
