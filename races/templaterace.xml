@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <element name="Template Race" type="Race" source="SOURCE" id="ID_AUTHOR_SOURCE_RACE_TEMPLATERACE">
+        <description>
+            <p></p>
+            <p class="indent"></p>
+            <h4>Traits</h4>
+            <p></p>
+            <p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Strength score increases by 1</p>
+            <p class="indent"><strong><em>Age.</em></strong> </p>
+            <p class="indent"><strong><em>Alignment.</em></strong> </p>
+            <p class="indent"><strong><em>Size.</em></strong> </p>
+            <p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet.</p>
+            <p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common.</p>
+            <p class="indent"><strong><em>Subrace.</em></strong> Pick a subrace that best describes the nature of your race.</p>
+        </description>
+        <sheet display="false" />
+        <rules>
+            <stat name="strength" value="1" requirements="!ID_HBW_PSK_GRANTS_TEMPLATERACE_SUBRACE,!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<select type="Language" name="Customized Language" supports="Custom Race Language" number="2"  requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+
+        </rules>
+    </element>
+    <element name="Template Subrace" type="Racial Trait" source="SOURCE" id="ID_RACIAL_TRAIT_TEMPLATE_SUBRACE">
+		<description>
+			<p></p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Template Subrace" supports="Template Race" />
+		</rules>
+	</element>
+
+    <element name="NAME" type="Sub Race" source="SOURCE" id="ID_SOURCE_SUBRACE_NAME_HERE">
+		<supports>Template Race</supports>
+		<description>
+			<p></p>
+			<p class="indent"><strong><em></em></strong> </p>
+			<p class="indent"><strong><em></em></strong> </p>
+			<p class="indent"><strong><em></em></strong> </p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="strength" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NAME_HERE" />
+		</rules>
+	</element>
+
+    <element name="NAME" type="Racial Trait" source="SOURCE" id="ID_RACIAL_TRAIT_NAME_HERE">
+        <description>
+            <p></p>
+        </description>
+        <sheet>
+            <description></description>
+        </sheet>
+        <rules>
+            
+        </rules>
+    </element>
+
+
+</elements>
