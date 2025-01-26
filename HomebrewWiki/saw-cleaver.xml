@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Saw Cleaver</name>
+        <update version="0.0.1">
+            <file name="saw-cleaver.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/saw-cleaver.xml" />
+        </update> 
+    </info>
+    <element name="Saw Cleaver" type="Weapon" source="Homebrew Wiki" id="ID_HBW_WEAPON_SAW_CLEAVER">
+        <supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE </supports>
+        <description>
+            <p/>A trick weapon devised by the workshop to hunt beasts, this saw-toothed blade is affixed to a handle by a hinge, enabling one to slash with it like an axe or like a halberd. <p/>
+            <p><b>Trick Weapon.</b></p>
+            <p>As a bonus action, you can flick the saw around from under the handle to lengthen its reach, or back again. While extended, the saw cleaver has the reach and two-handed properties. In addition, you have disadvantage on attacks made against targets within 5 feet of you while the saw cleaver is extended.</p>
+        </description>
+    <setters>
+        <set name="category">Weapons</set>
+        <set name="cost" currency="gp">25</set>
+        <set name="weight" lb="1">8 lb.</set>
+        <set name="slot">onehand</set>
+        <set name="damage" type="slashing">1d6</set>
+        <set name="versatile">1d8</set>
+        <set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_SAW_CLEAVER</set>
+    </setters>
+
+    </element>
+
+</elements>
