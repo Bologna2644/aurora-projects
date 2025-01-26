@@ -3,11 +3,11 @@
 	<info>
 		<name>races</name>
 		<update version="1.0.2">
-			<file name="races.index" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/races.index" />
+			<file name="races.index" url="https://github.com/Bologna2644/aurora-projects/raw/master/races.index" />
 		</update>
 	</info>
 	<files>
-		<file name="blessedautomaton.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/races/blessedautomaton.xml" />
-		<file name="templaterace.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/races/templaterace.xml" />
+		<file name="blessedautomaton.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/races/blessedautomaton.xml" />
+		<file name="templaterace.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/races/templaterace.xml" />
 	</files>
 </index>
