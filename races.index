@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>races</name>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="races.index" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/races.index" />
 		</update>
 	</info>
