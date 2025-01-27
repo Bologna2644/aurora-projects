@@ -5,6 +5,6 @@ index url: https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWik
 
 
 By Bologna
-index url: WIP
+index url: https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644.index
 
 All .xml files are written by me, actual content will be credtied accordingly. 
