@@ -10,4 +10,17 @@ The Core idea of this race is centering player interactions in combat on the use
 
 ## Peace among Worlds
 
-Slugcats are intelligent creature, so much so they can understand and form companionship across species. 
+Slugcats are intelligent creature, so much so they can understand and form companionship across species. They have been known to tame beasts with scavenged food, or make allies with other intelligent species. 
+
+## Slugcat Names
+
+Slugcats tend to be named in relation to the unique traits that their bodies provide;
+    Survivor, Hunter, Artificer, Gourmand, Rivulet, Spearmaster, Saint, Inv
+
+## Slugcat Traits
+*Ability Score Increase*
+  Your Dexterity score increases by 2, your Constitution score decreases by 2.
+*Age*
+  Slugcats tend to age rather quickly, often reaching adulthood in just 5 years or so.
+*Alignment*
+  Slugcats don't tend to have any particular alignment but may be considered chaotic.
