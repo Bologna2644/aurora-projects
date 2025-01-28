@@ -10,7 +10,7 @@ The Core idea of this race is centering player interactions in combat on the use
 
 ## Peace among Worlds
 
-Slugcats are intelligent creature, so much so they can understand and form companionship across species. They have been known to tame beasts with scavenged food, or make allies with other intelligent species. 
+Slugcats are intelligent creatures, so much so they can understand and form companionship across species. They have been known to tame beasts with scavenged food, or make allies with other intelligent species. 
 
 ## Slugcat Names
 
