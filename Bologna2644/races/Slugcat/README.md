@@ -36,9 +36,25 @@ Your base walking speed is 30 feet. You can climb and swim 15ft
 
 You can write Common and use your paws to gesture at creatures
 
+## Racial Traits
+
+### *Resourceful Scavenger*
+
+All slugcats have a keen sense for scavenging. Small objects can be fashioned into spears and food can be fashioned into rations.<br>
+*Scavenger*<br>
+Slugcat's have proficiency in Investigation and Survival Checks, due to their time spent living off of scraps. Rations will provide one food pip dependent on the slugcat, and spears can be held if there is a hand free. In combat, the scavenge action can be taken to find a spear.<br>
+<br>
+*Untrained*
+
+
 ## Subraces
 
 *Pick a subrace that best describes the nature of your Slugcat.*
+<br>
+
+### Survivor
+
+
 
 
 
