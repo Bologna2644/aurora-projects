@@ -2,7 +2,7 @@
 <elements>
 	<info>
     		<name>Slugcat</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
        			<file name="slugcat.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/races/Slugcat/slugcat.xml" />
    		</update> 
 	</info>
@@ -14,7 +14,7 @@
             <p></p>
             <p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 2, your Constitution decreases by 2</p>
             <p class="indent"><strong><em>Age.</em></strong>Slugcats age rather quickly, often reaching adulthood in just 5 years or so. </p>
-            <p class="indent"><strong><em>Alignment.</em></strong> A Slugcat's alighnment is varied by their life. Most often do they associate with Chaotic behaviour; their animalistic appearance allowing them to act quite unpredicatbly without question.</p>
+            <p class="indent"><strong><em>Alignment.</em></strong> Slugcats don't tend to have any particular alignment but may be considered chaotic.</p>
             <p class="indent"><strong><em>Size.</em></strong> Small</p>
             <p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 30 feet. You can climb and swim 15ft</p>
             <p class="indent"><strong><em>Languages.</em></strong> You can write Common and use your paws to gesture at creatures</p>
