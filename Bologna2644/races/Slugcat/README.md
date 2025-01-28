@@ -26,5 +26,5 @@ Slugcats tend to be named in relation to the unique traits that their bodies pro
 ### *Alignment*
   Slugcats don't tend to have any particular alignment but may be considered chaotic.
 ### Size
-    Small
+Small
 
