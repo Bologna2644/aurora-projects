@@ -2,8 +2,8 @@
 <elements>
 	<info>
     		<name>Slugcat</name>
-		<update version="0.0.0">
-       			<file name="slugcat.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/races/slugcat.xml" />
+		<update version="0.0.1">
+       			<file name="slugcat.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/races/Slugcat/slugcat.xml" />
    		</update> 
 	</info>
     <element name="Slugcat" type="Race" source="Rainworld" id="ID_BOLOGNA2644_BHB_RACE_SLUGCAT">
