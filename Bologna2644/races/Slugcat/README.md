@@ -51,7 +51,7 @@ One Consequence of a Slugcat's animal behaviour is that they are not well traine
 *The Spear*<br>
 The Spear is arguably the most important part of a slugcat's arsenal. It has a range of 35ft, can be extended with any ranged weapon extensions, and deals a base damage of 1d10 piercing damage. This damage increases by 1d10 at level 3,5,8,13,15 and by 2d10 at level 18.<br>
 
-### Karma Cycle
+### *Karma Cycle*
 
 
 ## Subraces
