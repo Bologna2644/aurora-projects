@@ -41,10 +41,17 @@ You can write Common and use your paws to gesture at creatures
 ### *Resourceful Scavenger*
 
 All slugcats have a keen sense for scavenging. Small objects can be fashioned into spears and food can be fashioned into rations.<br>
+<br>
 *Scavenger*<br>
 Slugcat's have proficiency in Investigation and Survival Checks, due to their time spent living off of scraps. Rations will provide one food pip dependent on the slugcat, and spears can be held if there is a hand free. In combat, the scavenge action can be taken to find a spear.<br>
 <br>
-*Untrained*
+*Untrained*<br>
+One Consequence of a Slugcat's animal behaviour is that they are not well trained with weaponry. They can learn to use a weapon, but won't be proficient in anything but spear/grenade throwing. Any weapon with the Heavy property will force the slugcat to roll with disadvantage to hit, and two handed weapons prevent the scavenging and use of spears in combat. Most slugcats can store one spear each, with exceptions.<br>
+<br>
+*The Spear*<br>
+The Spear is arguably the most important part of a slugcat's arsenal. It has a range of 35ft, can be extended with any ranged weapon extensions, and deals a base damage of 1d10 piercing damage. This damage increases by 1d10 at level 3,5,8,13,15 and by 2d10 at level 18.<br>
+
+## Karma Cycle
 
 
 ## Subraces
