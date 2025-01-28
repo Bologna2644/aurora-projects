@@ -18,9 +18,10 @@ Slugcats tend to be named in relation to the unique traits that their bodies pro
     Survivor, Hunter, Artificer, Gourmand, Rivulet, Spearmaster, Saint, Inv
 
 ## Slugcat Traits
-*Ability Score Increase*
+
+### *Ability Score Increase*
   Your Dexterity score increases by 2, your Constitution score decreases by 2.
-*Age*
+### *Age*
   Slugcats tend to age rather quickly, often reaching adulthood in just 5 years or so.
-*Alignment*
+### *Alignment*
   Slugcats don't tend to have any particular alignment but may be considered chaotic.
