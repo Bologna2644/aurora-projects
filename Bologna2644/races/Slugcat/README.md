@@ -25,3 +25,6 @@ Slugcats tend to be named in relation to the unique traits that their bodies pro
   Slugcats tend to age rather quickly, often reaching adulthood in just 5 years or so.
 ### *Alignment*
   Slugcats don't tend to have any particular alignment but may be considered chaotic.
+### Size
+    Small
+
