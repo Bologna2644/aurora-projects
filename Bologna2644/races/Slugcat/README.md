@@ -14,7 +14,7 @@ Slugcats are intelligent creature, so much so they can understand and form compa
 
 ## Slugcat Names
 
-Slugcats tend to be named in relation to the unique traits that their bodies provide;
+Slugcats tend to be named in relation to the unique traits that their bodies provide;<br>
     Survivor, Hunter, Artificer, Gourmand, Rivulet, Spearmaster, Saint, Inv
 
 ## Slugcat Traits
