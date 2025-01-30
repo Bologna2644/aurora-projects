@@ -51,7 +51,19 @@ One Consequence of a Slugcat's animal behaviour is that they are not well traine
 *The Spear*<br>
 The Spear is arguably the most important part of a slugcat's arsenal. It has a range of 35ft, can be extended with any ranged weapon extensions, and deals a base damage of 1d10 piercing damage. This damage increases by 1d10 at level 3,5,8,13,15 and by 2d10 at level 18.<br>
 
+### Mean Appetite
+
+Food pips are the core of a slugcats survival. With food pips, the slugcat is capable of improving their combat effectiveness.<br>
+Every slugcat has a max of 5 pips to use, and pips are filled with rations typically or other foodstuffs to the GM's consideration.<br>
+Each slugcat has actions they can take with the food pips;<br>
+>Food Pip Actions
+>>*Slugcat Restoration* ; Use your bonus action to consume 1  food pip to restore 1d4 HP, is increased to 2d4 at level 7 and 4d4 at level 13.
+>>*Slugcat Rage* ; Use your bonus action to consume 1 food pip and until the end of your turn have +2 to hit and damage.
+>>*Slugcat Agility* ; Use your bonus action to consume 2 food pips and, until the end of your turn, double your movement speed.
+
 ### *Karma Cycle*
+
+
 
 
 ## Subraces
