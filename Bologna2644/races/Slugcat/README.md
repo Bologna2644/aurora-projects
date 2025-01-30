@@ -63,24 +63,23 @@ Each slugcat has actions they can take with the food pips;<br>
 
 ### *Karma Cycle*
 
-When the slugcat longrests with a full set of food pips, their karma level will increase by 1, to a maximum of 5. If they long rest without full food pips, their karma decreases by 1.<br>
-The Slugcat cannit have negative karma. Violence is Level 0.<br>
+When you longrest with a full set of food pips, your karma level will increase by 1, to a maximum of 5. If you long rest without full food pips, your karma decreases by 1.<br>
+You cannot have negative karma. Violence is Level 0.<br>
 #### Violence 
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_1_icon_(no_circle).png?raw=true) <br>
-
 The Slugcat experiences no effects
 #### Lust
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_2_icon_(no_circle).png?raw=true) <br>
-The Slugcat becomes proficient in Performance
+You become proficient in Performance
 #### Compainionship
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_3_icon_(no_circle).png?raw=true) <br>
-The Slugcat becomes proficient in Animal Handling
+You become proficient in Animal Handling
 #### Gluttony
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_4_icon_(no_circle).png?raw=true) <br>
-The Slugcat becomes proficient in Sleight of Hand
+You become proficient in Sleight of Hand
 #### Survival
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_5_icon_(no_circle).png?raw=true) <br>
-The Slugcat becomes an expert in Survival<br>
+You become an expert in Survival<br>
 
 ## Subraces
 
@@ -94,21 +93,21 @@ The Slugcat becomes an expert in Survival<br>
 #### *Survivor's Adaptability*
 All your stats increase by 1.
 #### *No Dietary Requirements*
-The Survivor can eat rations and other small foodstuffs for a food pip each.
+You can eat rations and other small foodstuffs for a food pip each.
 
 ### Hunter
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat5.png?raw=true)
 *The hunter is a strong warrior , with a greater movement speed and the ability to be strategic with their weaponry.*<br>
 #### *Ability Score Increase*
-Your Strength score is increased by 3.
+Your Strength score is increased by 2.
 #### *Hunter's Stalk*
 Your Movement speed is increased by 10ft.
 #### *Play it Safe*
-The Hunter can prepare an additional spear before or during combat, holding one spear in hand and another on its back. 
+You can prepare an additional spear before or during combat, holding one spear in hand and another on its back. 
 #### *Carnivore*
-The Hunter can eat bodies larger than them and gain additional food pips equivalent to how much larger the target is. However, all other sources of food only provide quater pips.
+You can eat bodies larger than you and gain additional food pips equivalent to how much larger the target is. However, all other sources of food only provide quater pips.
 #### (Optional) Time Limit
-At each long rest, roll a d12. If the roll is 3 or lower, roll for a symptom suffered by your hunter for 24hrs on the symptoms table and make note of how many times you have rolled below a 3 in your campaign. If you have suffered 20 times, your hunter will die and become a Hunter Long Legs.<br>
+At each long rest, roll a d12. If the roll is 3 or lower, roll for a symptom suffered by you for 24hrs on the symptoms table and make note of how many times you have rolled below a 3 in your campaign. If you have suffered 20 times, you will die and become a Hunter Long Legs.<br>
 | D6 | Symptoms |
 |-------|-------|
 | 1 | Small Blue Buboes |
@@ -122,21 +121,21 @@ At each long rest, roll a d12. If the roll is 3 or lower, roll for a symptom suf
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat3.png?raw=true)
 *The Rivulet is a curious specimen, having evolved to live in bodies of water with its striking gills and nimble body*
 #### *Ability Score Increase*
-Your Charisma score is increased by 3.
+Your Charisma score is increased by 2.
 #### *Aquatic Lifeform*
-The Rivulet can move through bodies of water without losing movement speed and can breathe underwater.
+You can move through bodies of water without losing movement speed and can breathe underwater.
 #### *No Dietary Requirements*
-The Rivulet can eat rations and other small foodstuffs for a food pip each.
+You can eat rations and other small foodstuffs for a food pip each.
 
 ### Gourmand
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat6.png?raw=true)
 *The Gourmand is an impressive mass of slugcat. Devouring anything that can fit into its mouth, this slugcat doesn't just survive; it thrives.*
 #### *Ability Score Increase*
-Your Constitution score is increased by 4
+Your Constitution score is increased by 3
 #### *Too Hungry*
 Your movement speed decreases by 10ft
 #### *No Dietary Requirements: 2*
-The Gourmand can eat **anything** that fits in its mouth, and can eat two different things at a time 2/short rest which will start a roll on the gourmand d12 table of flavour.<br>
+You can eat **anything** that fits in its mouth, and can eat two different things at a time 2/short rest which will start a roll on the gourmand d12 table of flavour.<br>
 | D12 | Effect | Description |
 |-----|--------|-------------|
 | 1 | No effect | *The Flavours inspire no change*|
@@ -152,7 +151,34 @@ The Gourmand can eat **anything** that fits in its mouth, and can eat two differ
 | 11 | Recharge of NDR:2 | *The Flavours inspire you to try more*| 
 | 12 | Cast Detect Magic without a spell slot | *The Flavours reveal your third eye* |
 
+### Artificer 
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat7.png?raw=true)
+*The Artificer is a slugcat often saddled with a tragic tale. It weilds explosive power so volatile that it can tear itself apart*
+#### *Ability Score Increase*
+Your Intelligence score is increased by 2.
+#### *Explosive Attitude*
+You gain 10ft of movement speed.
+#### *Carnivore*
+You can eat bodies larger than you and gain additional food pips equivalent to how much larger the target is. However, all other sources of food only provide quater pips.
+#### *Arms Dealer*
+You can use 3 food pips to make a grenade. This grenade has a range of 40ft, is a thrown item, can be thrown over obstacles and deals 2d12 fire damage in a 10ft radius. 3/short rest. Damage increases by 2d12 at level 5,13,18 and 4d12 at 20.
+#### *Volatile Flight*
+You can use your action to explode and fly 50ft dealing no damage to yourself and not provoking opportunity attack, but cannot use your action or reaction until the end of your next turn.
+#### *Violent Nature*
+You cannot gain Karma and remain at the Violence level.
 
+### Spearmaster 
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat1.png?raw=true)
+*The Spearmaster is a strange mutation of the slugcats. From its body erupts organic spears that suck the vitality from creatures to sustain the Spearmaster.*
+#### *Ability Score Increase*
+Your Dexterity and Strength scores are increased by 1.
+#### *Unfortunate Development*
+You have no mouth so cannot use vocal components, and cannot eat without using your spears. You generate a spear with an action, and can use a bonus action to produce an additional one in one turn, weilding one in each hand. If you are holding two spears, once one is thrown with an action a second can be thrown with a bonus action.
+#### *Parasitic Relationship*
+You gain food pips by throwing your organic spears at living enemies. Each successful hit is 1 pip, and criticals are two pips.
+
+### Saint
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat2.png?raw=true)
 
 
 
