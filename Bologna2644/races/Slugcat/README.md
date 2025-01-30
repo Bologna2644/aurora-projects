@@ -143,8 +143,8 @@ The Gourmand can eat **anything** that fits in its mouth, and can eat two differ
 | 2 | 1d6 Temporary HP |
 | 3 | 1d6 Poison DMG |
 | 4 | +2 to Next Wisdom Check |
-| 5 | |
-| 6 | |
+| 5 | +10ft Movement Speed until the end of your second turn|
+| 6 | +2 Food Pips|
 | 7 | |
 | 8 | |
 | 9 | |
