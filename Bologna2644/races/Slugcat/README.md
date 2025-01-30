@@ -49,7 +49,7 @@ Slugcat's have proficiency in Investigation and Survival Checks, due to their ti
 One Consequence of a Slugcat's animal behaviour is that they are not well trained with weaponry. They can learn to use a weapon, but won't be proficient in anything but spear/grenade throwing. Any weapon with the Heavy property will force the slugcat to roll with disadvantage to hit, and two handed weapons prevent the scavenging and use of spears in combat. Most slugcats can store one spear each, with exceptions.<br>
 <br>
 *The Spear*<br>
-The Spear is arguably the most important part of a slugcat's arsenal. It has a range of 35ft, can be extended with any ranged weapon extensions, and deals a base damage of 1d10 piercing damage. This damage increases by 1d10 at level 3,5,8,13,15 and by 2d10 at level 18.<br>
+The Spear is arguably the most important part of a slugcat's arsenal. It has a range of 35ft, is an action to throw it, can be extended with any ranged weapon extensions, and deals a base damage of 1d10 piercing damage. This damage increases by 1d10 at level 3,5,8,13,15 and by 2d10 at level 18. The Slugcat can only hold one spear at a time.<br>
 
 ### *Mean Appetite*
 
@@ -98,7 +98,29 @@ The Survivor can eat rations and other small foodstuffs for a food pip each.
 
 ### Hunter
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat5.png?raw=true)
-*The hunter is a strong warrior , with a greater movement speed and the ability to be strategic with their weaponry.*
+*The hunter is a strong warrior , with a greater movement speed and the ability to be strategic with their weaponry.*<br>
+#### *Ability Score Increase*
+Your Strength score is increased by 3.
+#### *Hunter's Stalk*
+Your Movement speed is increased by 10ft.
+#### *Play it Safe*
+The Hunter can prepare an additional spear before or during combat, holding one spear in hand and another on its back. 
+#### *Carnivore*
+The Hunter can eat bodies larger than them and gain additional food pips equivalent to how much larger the target is. However, all other sources of food only provide quater pips.
+#### (Optional) Time Limit
+At each long rest, roll a d12. If the roll is 3 or lower, roll for a symptom suffered by your hunter for 24hrs on the symptoms table and make note of how many times you have rolled below a 3 in your campaign. If you have suffered 20 times, your hunter will die and become a Hunter Long Legs.<br>
+| D6 | Symptoms |
+|-------|-------|
+| 1 | Small Blue Buboes |
+| 2 | Glassy Eyes |
+| 3 | Occasional Spasms |
+| 4 | Trouble Swallowing |
+| 5 | Loss of Vision |
+| 6 | Nightmares |
+
+### Rivulet
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat3.png?raw=true)
+
 
 
 
