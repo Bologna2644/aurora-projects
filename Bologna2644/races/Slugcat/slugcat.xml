@@ -2,7 +2,7 @@
 <elements>
 	<info>
     		<name>Slugcat</name>
-		<update version="0.0.2">
+		<update version="0.0.3">
        			<file name="slugcat.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/races/Slugcat/slugcat.xml" />
    		</update> 
 	</info>
@@ -138,8 +138,25 @@
 			<p>The Gourmand is an impressive mass of slugcat. Devouring anything that can fit into its mouth, this slugcat doesn't just survive; it thrives.</p>
 			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Constitution score is increased by 4 </p>
 			<p class="indent"><strong><em>Too Hungry</em></strong> The Gourmand loses 10ft of movement speed.</p>
-            <p class="indent"><strong><em>No Dietary Requirements: 2</em></strong> The Gourmand can eat <i>anything</i> that fits in its mouth, and can eat two foodstuffs at a time which will start a roll on the gourmand d12 table of flavour.</p>
-            <p class="indent"><strong><em>Fatty Throw</em></strong> The Gourmand can throw the spear with such force that it consumes 4 food pips and deals an extra 4d10 piercing damage</p>
+            		<p class="indent"><strong><em>No Dietary Requirements: 2</em></strong> The Gourmand can eat <i>anything</i> that fits in its mouth, and can eat two foodstuffs at a time which will start a roll on the gourmand d12 table of flavour.</p>
+            		<p class="indent"><strong><em>Fatty Throw</em></strong> The Gourmand can throw the spear with such force that it consumes 4 food pips and deals an extra 4d10 piercing damage</p>
+			<table>
+                		<thead>
+                   			<tr><td>d12</td><td>column2</td></tr>
+               			</thead>
+                			<tr><td>1</td><td>No effect</td></tr>
+                			<tr><td>2</td><td>1d6 Temporary HP</td></tr>
+			                <tr><td>3</td><td>1d6 Poison DMG to self</td></tr>
+			                <tr><td>4</td><td>+2 to Next Wisdom Check</td></tr>
+			                <tr><td>5</td><td>+10ft Movement Speed until the end of your next turn</td></tr>
+			                <tr><td>6</td><td>+2 Food Pips</td></tr>
+			                <tr><td>7</td><td>+1 GP</td></tr>
+			                <tr><td>8</td><td>-5ft Movement Speed until the end of your next turn</td></tr>
+			                <tr><td>9</td><td>-1 Food Pips</td></tr>
+			                <tr><td>10</td><td>1d10 Force DMG to random creature within 15ft</td></tr>
+			                <tr><td>11</td><td>Recharge of NDR:2</td></tr>
+			                <tr><td>12</td><td>Cast Detect Magic without a spell slot</td></tr>
+		        </table>
 		</description>
 		<sheet display="false" />
 		<rules>
