@@ -65,7 +65,7 @@ Each slugcat has actions they can take with the food pips;<br>
 
 When the slugcat longrests with a full set of food pips, their karma level will increase by 1, to a maximum of 5. If they long rest without full food pips, their karma decreases by 1.<br>
 The Slugcat cannit have negative karma. Violence is Level 0.<br>
-#### Violence ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/image.jpg?raw=true)
+#### Violence ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_1_icon_(no_circle).png?raw=true)
 The Slugcat experiences no effects
 #### Lust
 The Slugcat becomes proficient in Performance
