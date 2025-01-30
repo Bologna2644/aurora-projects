@@ -136,7 +136,21 @@ Your Constitution score is increased by 4
 #### *Too Hungry*
 Your movement speed decreases by 10ft
 #### *No Dietary Requirements: 2*
-The Gourmand can eat <i>anything</i> that fits in its mouth, and can eat two foodstuffs at a time which will start a roll on the gourmand d12 table of flavour.
+The Gourmand can eat <i>anything</i> that fits in its mouth, and can eat two foodstuffs at a time which will start a roll on the gourmand d12 table of flavour.<br>
+| D12 | Effect | Description |
+|-----|--------|-------------|
+| 1 | No effect |
+| 2 | 1d6 Temporary HP |
+| 3 | 1d6 Poison DMG |
+| 4 | +2 to Next Wisdom Check |
+| 5 | |
+| 6 | |
+| 7 | |
+| 8 | |
+| 9 | |
+| 10 | |
+| 11 | |
+| 12 | |
 
 
 
