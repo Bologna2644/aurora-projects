@@ -70,12 +70,16 @@ The Slugcat cannit have negative karma. Violence is Level 0.<br>
 
 The Slugcat experiences no effects
 #### Lust
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_2_icon_(no_circle).png?raw=true) <br>
 The Slugcat becomes proficient in Performance
 #### Compainionship
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_3_icon_(no_circle).png?raw=true) <br>
 The Slugcat becomes proficient in Animal Handling
 #### Gluttony
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_4_icon_(no_circle).png?raw=true) <br>
 The Slugcat becomes proficient in Sleight of Hand
 #### Survival
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Karma_5_icon_(no_circle).png?raw=true) <br>
 The Slugcat becomes an expert in Survival<br>
 
 ## Subraces
