@@ -88,7 +88,7 @@ The Slugcat becomes an expert in Survival<br>
 <br>
 
 ### Survivor
-![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat_0.png?raw=true)
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat 0.png?raw=true)
 *The Survivor is a balanced creature. Agressive enough to consume small bugs and scare away beasts, and careful enough to survive.*
 
 
