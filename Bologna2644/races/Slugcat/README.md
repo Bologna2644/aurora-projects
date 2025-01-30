@@ -89,7 +89,16 @@ The Slugcat becomes an expert in Survival<br>
 
 ### Survivor
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat0.png?raw=true)
-*The Survivor is a balanced creature. Agressive enough to consume small bugs and scare away beasts, and careful enough to survive.*
+*The Survivor is a balanced creature. Agressive enough to consume small bugs and scare away beasts, and careful enough to survive.*<br>
+
+#### *Survivor's Adaptability*
+All your stats increase by 1.
+#### *No Dietary Requirements*
+The Survivor can eat rations and other small foodstuffs for a food pip each.
+
+### Hunter
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat5.png?raw=true)
+*The hunter is a strong warrior , with a greater movement speed and the ability to be strategic with their weaponry.*
 
 
 
