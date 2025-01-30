@@ -139,18 +139,18 @@ Your movement speed decreases by 10ft
 The Gourmand can eat **anything** that fits in its mouth, and can eat two different things at a time 2/short rest which will start a roll on the gourmand d12 table of flavour.<br>
 | D12 | Effect | Description |
 |-----|--------|-------------|
-| 1 | No effect |
-| 2 | 1d6 Temporary HP |
-| 3 | 1d6 Poison DMG |
-| 4 | +2 to Next Wisdom Check |
-| 5 | +10ft Movement Speed until the end of your second turn|
-| 6 | +2 Food Pips|
-| 7 | |
-| 8 | |
-| 9 | |
-| 10 | |
-| 11 | |
-| 12 | |
+| 1 | No effect | *The Flavours inspire no change*|
+| 2 | 1d6 Temporary HP | *The Flavours strengthen your resolve* |
+| 3 | 1d6 Poison DMG to self | *The Flavours are rancid* |
+| 4 | +2 to Next Wisdom Check | *The Flavours are enlightening* |
+| 5 | +10ft Movement Speed until the end of your next turn | *The Flavours are exciting* |
+| 6 | +2 Food Pips | *The Flavours are filling* | 
+| 7 | +1 GP | *The Flavours... make you reguritate a coin* |
+| 8 | -5ft Movement Speed until the end of your next turn | *The Flavours make you feel stuffed* |
+| 9 | -1 Food Pips | *The Flavours are dissapointing* |
+| 10 | 1d10 Force DMG to random creature within 15ft | *The Flavours make you... gassy* | 
+| 11 | Recharge of NDR:2 | *The Flavours inspire you to try more*| 
+| 12 | Cast Detect Magic without a spell slot | *The Flavours reveal your third eye* |
 
 
 
