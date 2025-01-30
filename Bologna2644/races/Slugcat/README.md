@@ -133,6 +133,9 @@ The Rivulet can eat rations and other small foodstuffs for a food pip each.
 *The Gourmand is an impressive mass of slugcat. Devouring anything that can fit into its mouth, this slugcat doesn't just survive; it thrives.*
 #### *Ability Score Increase*
 Your Constitution score is increased by 4
+#### *Too Hungry*
+Your movement speed decreases by 10ft
+#### *No Dietary Requirements: 2*
 
 
 
