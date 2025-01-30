@@ -120,6 +120,7 @@ At each long rest, roll a d12. If the roll is 3 or lower, roll for a symptom suf
 
 ### Rivulet
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat3.png?raw=true)
+*The Rivulet is a curious specimen, having evolved to live in bodies of water with its striking gills and nimble body*
 
 
 
