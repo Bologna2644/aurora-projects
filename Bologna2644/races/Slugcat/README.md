@@ -121,6 +121,19 @@ At each long rest, roll a d12. If the roll is 3 or lower, roll for a symptom suf
 ### Rivulet
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat3.png?raw=true)
 *The Rivulet is a curious specimen, having evolved to live in bodies of water with its striking gills and nimble body*
+#### *Ability Score Increase*
+Your Charisma score is increased by 3.
+#### *Aquatic Lifeform*
+The Rivulet can move through bodies of water without losing movement speed and can breathe underwater.
+#### *No Dietary Requirements*
+The Rivulet can eat rations and other small foodstuffs for a food pip each.
+
+### Gourmand
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat6.png?raw=true)
+*The Gourmand is an impressive mass of slugcat. Devouring anything that can fit into its mouth, this slugcat doesn't just survive; it thrives.*
+#### *Ability Score Increase*
+Your Constitution score is increased by 4
+
 
 
 
