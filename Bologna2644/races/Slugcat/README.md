@@ -57,9 +57,9 @@ Food pips are the core of a slugcats survival. With food pips, the slugcat is ca
 Every slugcat has a max of 5 pips to use, and pips are filled with rations typically or other foodstuffs to the GM's consideration.<br>
 Each slugcat has actions they can take with the food pips;<br>
 >Food Pip Actions
->>*Slugcat Restoration* ; Use your bonus action to consume 1  food pip to restore 1d4 HP, is increased to 2d4 at level 7 and 4d4 at level 13.
->>*Slugcat Rage* ; Use your bonus action to consume 1 food pip and until the end of your turn have +2 to hit and damage.
->>*Slugcat Agility* ; Use your bonus action to consume 2 food pips and, until the end of your turn, double your movement speed.
+>>*Slugcat Restoration* ; Use your bonus action to consume 1  food pip to restore 1d4 HP, is increased to 2d4 at level 7 and 4d4 at level 13.<br>
+>>*Slugcat Rage* ; Use your bonus action to consume 1 food pip and until the end of your turn have +2 to hit and damage.<br>
+>>*Slugcat Agility* ; Use your bonus action to consume 2 food pips and, until the end of your turn, double your movement speed.<br>
 
 ### *Karma Cycle*
 
