@@ -197,7 +197,7 @@ At level 15, you achieve a new level of spirituality. 1/long rest, You can choos
 #### *Ability Score Increase*
 Your Constitution score is decreased by 10, your Charisma score is increased by 10.
 #### *TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS*
-LOOK MATES, IM RICH! Gain 50GP.
+Gain 50GP.
 #### *Nachoes will never be the same*
 I feel like a wizard!.
 
