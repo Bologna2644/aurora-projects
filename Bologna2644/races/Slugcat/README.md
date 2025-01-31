@@ -1,6 +1,8 @@
 # Slugcat
 The Slugcat race is based off the slugcat characters from RAINWORLD. This Race is much more involved than the Homebrew Wiki 5e race, which some people might prefer. This is my first race so the balancing may be off, but I plan to update the race accordingly.
 
+I recomend changing the character sheet settings on Aurora to generate a seperate page for racial traits as there are too many to fit on the front page.
+
 The Core idea of this race is centering player interactions in combat on the use of spears and food pips. I tried my best to implement the features of Rainworld in the least frustrating manner.
 
 
