@@ -188,6 +188,18 @@ You cannot eat any meat, and can only gain food pips with rations purchased from
 You gain 25ft of climbing speed and can use your tongue to grab objects up to 25ft away that you can see. You can also hang from ceilings or rails with your tongue.
 #### *Pacifist*
 You cannot use spears, but will gain 2 cleric cantrips to assist in combat.
+#### *Ascension*
+At level 15, you achieve a new level of spirituality. 1/long rest, You can choose 1 creature within 100ft to be 'ascended'. The target must roll a Wisdom saving throw with DC equivalent to your spellcasting DC. If the target fails and has less than 120HP, it will lose its sentience and die immediately. If it fails and has more than 120HP, it will take 12d12 Radiant Damage. On a success, the target will take half damage.
+
+### Inv
+![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat4.png?raw=true)
+*"It does not matter whenever the door is opened, closed or passed through. The lock is the key and the key is the means."*
+#### *Ability Score Increase*
+Your Constitution score is decreased by 10, your Charisma score is increased by 10.
+#### *TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS*
+LOOK MATES, IM RICH! Gain 50GP.
+#### *Nachoes will never be the same*
+I feel like a wizard!.
 
 
 
