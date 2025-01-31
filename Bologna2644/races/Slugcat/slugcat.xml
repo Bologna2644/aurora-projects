@@ -2,7 +2,7 @@
 <elements>
 	<info>
     		<name>Slugcat</name>
-		<update version="0.0.3">
+		<update version="0.0.4">
        			<file name="slugcat.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/races/Slugcat/slugcat.xml" />
    		</update> 
 	</info>
@@ -100,7 +100,7 @@
 		<supports>Slugcat</supports>
 		<description>
 			<p>The hunter is a strong warrior subrace of the slugcats, with a greater movement speed and much more flexability with their weaponry</p>
-			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Strength score is increased by 3 </p>
+			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Strength score is increased by 2 </p>
             <p class="indent"><strong><em>Movement Speed Increase</em></strong> Your Movement speed is increased by 10ft </p>
 			<p class="indent"><strong><em>Play it Safe</em></strong> The Hunter can prepare an additional spear before or during combat.</p>
             <p class="indent"><strong><em>Carnivore</em></strong> The Hunter can eat bodies larger than them and gain additional food pips equivalent to how much larger the target is. However, all other sources of food only provide quater pips</p>
@@ -108,7 +108,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<stat name="strength" value="3" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="strength" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
             <stat name="innate speed:misc" value="10"/>
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_PLAY_IT_SAFE"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CARNIVORE"/>
@@ -120,13 +120,13 @@
 		<supports>Slugcat</supports>
 		<description>
 			<p>The Rivulet is a curious specimen, having evolved to live in bodies of water with its striking gills and nimble body</p>
-			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Charisma score is increased by 3 </p>
+			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Charisma score is increased by 2 </p>
 			<p class="indent"><strong><em>Aquatic Lifeform</em></strong> The Rivulet can move through bodies of water without losing movement speed and can breathe underwater.</p>
             <p class="indent"><strong><em>No Dietary Requirements</em></strong> The Rivulet can eat bugs and berries for a food pip each.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
-			<stat name="charisma" value="3" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="charisma" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_AQUATIC_LIFEFORM"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NO_DIETARY_REQUIREMENTS"/>
 		</rules>
@@ -136,7 +136,7 @@
 		<supports>Slugcat</supports>
 		<description>
 			<p>The Gourmand is an impressive mass of slugcat. Devouring anything that can fit into its mouth, this slugcat doesn't just survive; it thrives.</p>
-			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Constitution score is increased by 4 </p>
+			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Constitution score is increased by 3 </p>
 			<p class="indent"><strong><em>Too Hungry</em></strong> The Gourmand loses 10ft of movement speed.</p>
             		<p class="indent"><strong><em>No Dietary Requirements: 2</em></strong> The Gourmand can eat <i>anything</i> that fits in its mouth, and can eat two foodstuffs at a time which will start a roll on the gourmand d12 table of flavour.</p>
             		<p class="indent"><strong><em>Fatty Throw</em></strong> The Gourmand can throw the spear with such force that it consumes 4 food pips and deals an extra 4d10 piercing damage</p>
@@ -160,7 +160,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<stat name="constitution" value="4" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="constitution" value="3" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_TOO_HUNGRY"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NO_DIETARY_REQUIREMENTS_2"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FATTY_THROW"/>
@@ -171,7 +171,7 @@
 		<supports>Slugcat</supports>
 		<description>
 			<p>The Artificer is a slugcat often saddled with a tragic tale. It weilds explosive power so volatile that it can tear itself apart</p>
-			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Intelligence score is increased by 3. </p>
+			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Intelligence score is increased by 2. </p>
 			<p class="indent"><strong><em>Explosive Attitude</em></strong> The Artificer gains 10ft of movement speed.</p>
             <p class="indent"><strong><em>Carnivore</em></strong> The Artificer can eat bodies larger than them and gain additional food pips equivalent to how much larger the target is. However, all other sources of food only provide quater pips</p>
             <p class="indent"><strong><em>Arms Dealer</em></strong> The Artificer can use 3 food pips to make a grenade. This grenade has a range of 40ft, is a thrown item, can be thrown over obstacles and deals 2d12 fire damage in a 10ft radius. 3/short rest. Damage increases by 2d12 at level 5,13,18 and 4d12 at 20. </p>
@@ -180,7 +180,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<stat name="intelligence" value="3" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="intelligence" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXPLOSIVE_ATTITUDE"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CARNIVORE"/>
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_ARMS_DEALER"/>
@@ -193,14 +193,14 @@
 		<supports>Slugcat</supports>
 		<description>
 			<p>The Spearmaster is a mutation of the slugcats core interactions with the world. From its body erupts organic spears that suck the vitality from creatures to sustain the Spearmaster.</p>
-			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Dexterity and Strength score is increased by 2 </p>
+			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Dexterity and Strength score are increased by 1 </p>
             <p class="indent"><strong><em>Unfortunate Development</em></strong> The Spearmaster has no mouth so cannot cast vocal spells, and cannot eat without using its spears. The Spearmaster generates its spears with an action, and can use a bonus action to produce 2 in one turn. If Spearmaster is holding two spears, once one is thrown with an action a second can be thrown with a bonus action.</p>
 			<p class="indent"><strong><em>Parasitic Relationship</em></strong> The Spearmaster gains food pips by throwing its organic spears at living enemies. Each successful hit is 1 pip, and criticals are double.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
-			<stat name="dexterity" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
-            <stat name="strength" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="dexterity" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+            		<stat name="strength" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_UNFORTUNATE_DEVELOPMENT" />
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_PARASITIC_RELATIONSHIP" />
 		</rules>
@@ -210,15 +210,15 @@
 		<supports>Slugcat</supports>
 		<description>
 			<p>The Saint is a rare slugcat, often with strange markings upon its forehead and a distinctive, long tongue it uses for travel.</p>
-			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Wisdom score is increased by 3 </p>
-            <p class="indent"><strong><em>Is there a Vegan Menu?</em></strong> The Saint cannot eat any meat, and can only gain food pips with rations purchased or made from berries.</p>
+			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Wisdom score is increased by 2 </p>
+            <p class="indent"><strong><em>Is there a Vegan Menu?</em></strong> The Saint cannot eat any meat, and can only gain food pips with rations purchased from shops or made from berries.</p>
 			<p class="indent"><strong><em>Grapple Tongue</em></strong> The Saint gains 25ft of climbing speed and can use its tongue to grab objects up to 25ft away that it can see. It can also hang from ceilings or rails with its tongue.</p>
             <p class="indent"><strong><em>Pacifist</em></strong> The Saint cannot use spears, but will gain 2 cleric cantrips to assist in combat.</p>
-            <p class="indent"><strong><em>Ascension</em></strong> At level 15, The Saint achieves a new level of spirituality. 1/long rest, the Saint can choose 1 creature within 100ft to be 'ascended'. The target must roll a Wisdom saving throw with DC equivalent to your spellcasting DC. If the target fails and has less than 120HP, it will lose its sentience and die immediately. If it fails and has more than 120HP, it will take 12d12 Radiant Damage. On a success, the target will take 6d12 radiant damage.  </p>
+            <p class="indent"><strong><em>Ascension</em></strong> At level 15, The Saint achieves a new level of spirituality. 1/long rest, the Saint can choose 1 creature within 100ft to be 'ascended'. The target must roll a Wisdom saving throw with DC equivalent to your spellcasting DC. If the target fails and has less than 120HP, it will fall to the ground die immediately. If it fails and has more than 120HP, it will take 12d12 Radiant Damage. On a success, the target will take half damage.  </p>
 		</description>
 		<sheet display="false" />
 		<rules>
-			<stat name="wisdom" value="3" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="wisdom" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
             <stat name="innate speed:climb" value="25" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_IS_THERE_A_VEGAN_MENU" />
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_GRAPPLE_TONGUE" />
@@ -234,7 +234,7 @@
 			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Constitution score is decreased by -10, your Charisma is increased by 10. </p>
             <p class="indent"><strong><em>TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS</em></strong> LOOK MATES, IM RICH! Gain 50GP</p>
 			<p class="indent"><strong><em>Nachoes will never be the same</em></strong> I feel like a wizard!</p>
-            <p class="indent"><strong><em>Andrews Basement</em></strong> 5 Pips to fly! 1/long rest, effect resets after 1 day.</p>
+            <p class="indent"><strong><em>Andrews Basement</em></strong> 5 Pips to gain fly! 1/long rest, effect resets after 1 day.</p>
             <p class="indent"><strong><em>Carnivore</em></strong> Its a secret, I cannot tell....</p>
 		</description>
 		<sheet display="false" />
@@ -578,7 +578,7 @@
 
     <element name="Andrews Basement" type="Racial Trait" source="Rainworld" id="ID_RACIAL_TRAIT_ANDREWS_BASEMENT">
         <description>
-            <p>5 Pips to fly! 2/long rest, effect resets after 1 day.</p>
+            <p>5 Pips to gain 50ft of flight! 2/long rest, effect resets after 1 day.</p>
         </description>
         <sheet>
         </sheet>
