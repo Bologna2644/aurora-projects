@@ -179,6 +179,15 @@ You gain food pips by throwing your organic spears at living enemies. Each succe
 
 ### Saint
 ![alt text](https://github.com/Bologna2644/aurora-projects/blob/master/Bologna2644/races/Slugcat/Images/Slugcat2.png?raw=true)
+*The Saint is a rare slugcat, often with strange markings upon its forehead and a distinctive, long tongue it uses for travel.*
+#### *Ability Score Increase*
+Your Wisdom score is increased by 2.
+#### *Is there a Vegan Menu?*
+You cannot eat any meat, and can only gain food pips with rations purchased from stores or made from berries.
+#### *Grapple Tongue*
+You gain 25ft of climbing speed and can use your tongue to grab objects up to 25ft away that you can see. You can also hang from ceilings or rails with your tongue.
+#### *Pacifist*
+You cannot use spears, but will gain 2 cleric cantrips to assist in combat.
 
 
 
