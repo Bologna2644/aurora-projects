@@ -200,6 +200,10 @@ Your Constitution score is decreased by 10, your Charisma score is increased by 
 Gain 50GP.
 #### *Nachoes will never be the same*
 I feel like a wizard!.
+#### *Andrews Basement*
+5 Pips to gain 30ft of flight! 1/long rest, effect resets after 1 day.
+#### *Carnivore*
+Its a secret, I cannot tell....
 
 
 
