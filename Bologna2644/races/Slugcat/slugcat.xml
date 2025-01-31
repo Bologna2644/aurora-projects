@@ -2,7 +2,7 @@
 <elements>
 	<info>
     		<name>Slugcat</name>
-		<update version="0.0.4">
+		<update version="0.0.5">
        			<file name="slugcat.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/Bologna2644/races/Slugcat/slugcat.xml" />
    		</update> 
 	</info>
@@ -234,7 +234,7 @@
 			<p class="indent"><strong><em>Ability Score Increase</em></strong> Your Constitution score is decreased by -10, your Charisma is increased by 10. </p>
             <p class="indent"><strong><em>TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS</em></strong> LOOK MATES, IM RICH! Gain 50GP</p>
 			<p class="indent"><strong><em>Nachoes will never be the same</em></strong> I feel like a wizard!</p>
-            <p class="indent"><strong><em>Andrews Basement</em></strong> 5 Pips to gain fly! 1/long rest, effect resets after 1 day.</p>
+            <p class="indent"><strong><em>Andrews Basement</em></strong> 5 Pips to gain 50ft of flight! 1/long rest, effect resets after 1 day.</p>
             <p class="indent"><strong><em>Carnivore</em></strong> Its a secret, I cannot tell....</p>
 		</description>
 		<sheet display="false" />
@@ -431,6 +431,24 @@
     <element name="No Dietary Requirements: 2" type="Racial Trait" source="Rainworld" id="ID_RACIAL_TRAIT_NO_DIETARY_REQUIREMENTS_2">
         <description>
             <p>The Gourmand can eat <i>anything</i> that fits in its mouth, and can eat two foodstuffs at a time which will start a roll on the gourmand d12 table of flavour.</p>
+		<table>
+	        	<thead>
+	                	<tr><td>d12</td><td>column2</td></tr>
+	               	</thead>
+	                	<tr><td>1</td><td>No effect</td></tr>
+	                	<tr><td>2</td><td>1d6 Temporary HP</td></tr>
+				<tr><td>3</td><td>1d6 Poison DMG to self</td></tr>
+				<tr><td>4</td><td>+2 to Next Wisdom Check</td></tr>
+				<tr><td>5</td><td>+10ft Movement Speed until the end of your next turn</td></tr>
+				<tr><td>6</td><td>+2 Food Pips</td></tr>
+				<tr><td>7</td><td>+1 GP</td></tr>
+				<tr><td>8</td><td>-5ft Movement Speed until the end of your next turn</td></tr>
+				<tr><td>9</td><td>-1 Food Pips</td></tr>
+				<tr><td>10</td><td>1d10 Force DMG to random creature within 15ft</td></tr>
+				<tr><td>11</td><td>Recharge of NDR:2</td></tr>
+				<tr><td>12</td><td>Cast Detect Magic without a spell slot</td></tr>
+		</table>
+		
         </description>
         <sheet>
 
@@ -494,7 +512,7 @@
 
     <element name="Unfortunate Development" type="Racial Trait" source="Rainworld" id="ID_RACIAL_TRAIT_UNFORTUNATE_DEVELOPMENT">
         <description>
-            <p>The Spearmaster has no mouth so cannot cast vocal spells, and cannot eat without using its spears. The Spearmaster generates its spears with an action, and can use a bonus action to produce 2 in one turn. If Spearmaster is holding two spears, once one is thrown with an action a second can be thrown with a bonus action.</p>
+            <p>The Spearmaster has no mouth so cannot use vocal components, and cannot eat without using its spears. The Spearmaster generates its spears with an action, and can use a bonus action to produce 2 in one turn. If Spearmaster is holding two spears, once one is thrown with an action a second can be thrown with a bonus action.</p>
         </description>
         <sheet>
         </sheet>
@@ -514,7 +532,7 @@
 
     <element name="Is there a Vegan Menu?" type="Racial Trait" source="Rainworld" id="ID_RACIAL_TRAIT_IS_THERE_A_VEGAN_MENU">
         <description>
-            <p>The Saint cannot eat any meat, and can only gain food pips from rations purchased or made from berries.</p>
+            <p>The Saint cannot eat any meat, and can only gain food pips from rations purchased from shops or made from berries.</p>
         </description>
         <sheet>
         </sheet>
@@ -547,7 +565,7 @@
 
     <element name="Ascension" type="Racial Trait" source="Rainworld" id="ID_RACIAL_TRAIT_ASCENSION">
         <description>
-            <p>At level 15, The Saint achieves a new level of spirituality. 1/long rest, the Saint can choose 1 creature within 100ft to be 'ascended'. The target must roll a Wisdom saving throw with DC equivalent to your spellcasting DC. If the target fails and has less than 120HP, it will lose its sentience and die immediately. If it fails and has more than 120HP, it will take 12d12 Radiant Damage. On a success, the target will take 6d12 radiant damage.</p>
+            <p>At level 15, The Saint achieves a new level of spirituality. 1/long rest, the Saint can choose 1 creature within 100ft to be 'ascended'. The target must roll a Wisdom saving throw with DC equivalent to your spellcasting DC. If the target fails and has less than 120HP, it will lose its sentience and die immediately. If it fails and has more than 120HP, it will take 12d12 Radiant Damage. On a success, the target will take half damage.</p>
         </description>
         <sheet>
         </sheet>
@@ -557,7 +575,7 @@
 
     <element name="TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS" type="Racial Trait" source="Rainworld" id="ID_RACIAL_TRAIT_TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOBS">
         <description>
-            <p>LOOK MATES, IM RICH! Gain 50GP</p>
+            <p>Gain 50GP</p>
         </description>
         <sheet>
         </sheet>
