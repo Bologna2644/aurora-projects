@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Homebrew Wiki</name>
-		<update version="1.0.9">
+		<update version="1.1.0">
 			<file name="HomebrewWiki.index" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki.index" />
 		</update>
 	</info>
@@ -10,5 +10,6 @@
 		<file name="blessedautomaton.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/races/blessedautomaton.xml" />
 		<file name="order-of-the-yharnam-hunter.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/archetypes/order-of-the-yharnam-hunter.xml" />
 		<file name="saw-cleaver.xml" url="https://github.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/weapons/saw-cleaver.xml" />
+		<file name="sunlight.xml" url="https://raw.githubusercontent.com/Bologna2644/aurora-projects/raw/master/HomebrewWiki/spells/sunlight.xml" />
 	</files>
 </index>
